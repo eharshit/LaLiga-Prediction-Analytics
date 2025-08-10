@@ -92,9 +92,3 @@ This project analyzes La Liga football statistics and predicts championship outc
 2. **Performance Threshold**: Champions typically achieve ~2.37 points per match  
 3. **Prediction Accuracy**: The model achieves perfect accuracy on historical data  
 4. **Current Season**: Barcelona is heavily favored to win the 2024 championship
-
-## Technical Implementation
-- **Data Pipeline**: Automated web scraping → data cleaning → analysis → ML modeling  
-- **Feature Selection**: Focused on performance metrics and projected outcomes  
-- **Model Validation**: Cross-validation and multiple performance metrics  
-- **Reproducibility**: Fixed random state and consistent data processing
