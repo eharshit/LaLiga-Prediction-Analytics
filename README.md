@@ -4,7 +4,7 @@
 This project analyzes La Liga football statistics and predicts championship outcomes using machine learning. The system scrapes data from [FBRef.com](https://fbref.com) for seasons 2014-2025 and uses a Random Forest Classifier to predict championship probabilities.
 
 ## Workflow
-![Workflow](workflow.png)
+![Workflow](Workflow.png)
 
 **Process Flow**: Business Problem → Data Collection → Data Processing → Analysis → ML Modeling → Predictions
 
