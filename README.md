@@ -91,4 +91,4 @@ This project analyzes La Liga football statistics and predicts championship outc
 1. **Championship Dominance**: Barcelona and Real Madrid have dominated La Liga over the past decade  
 2. **Performance Threshold**: Champions typically achieve ~2.37 points per match  
 3. **Prediction Accuracy**: The model achieves perfect accuracy on historical data  
-4. **Current Season**: Barcelona is heavily favored to win the 2024 championships
+4. **Current Season**: Barcelona is heavily favored to win the 2024 championship
